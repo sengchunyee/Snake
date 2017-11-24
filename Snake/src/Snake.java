@@ -14,7 +14,7 @@ public class Snake {
     private JTextArea scoreViewer;
 
     // Constants
-    private final int SNAKE_RUNNING_SPEED_FASTEST = 25;
+    private final int SNAKE_RUNNING_SPEED_FASTEST = 30;
     private final int SNAKE_RUNNING_SPEED_FASTER = 50;
     private final int SNAKE_RUNNING_SPEED_FAST = 100;
     private final int BOARD_WIDTH = 500;
